@@ -15,6 +15,8 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 - Setting Up your Database
 - Fetching Data
 - Static and Dynamic Rendering
+- Steaming
+- Adding Search and Pagination
 
 ## What environment is needed locally?
 
