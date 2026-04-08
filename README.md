@@ -17,6 +17,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 - Static and Dynamic Rendering
 - Steaming
 - Adding Search and Pagination
+- Mutating Data
 
 ## What environment is needed locally?
 
