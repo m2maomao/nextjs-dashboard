@@ -19,6 +19,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 - Adding Search and Pagination
 - Mutating Data
 - Handling Errors
+- Improving Accessibility
 
 ## What environment is needed locally?
 
