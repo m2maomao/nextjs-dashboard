@@ -26,3 +26,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 ### Prerequisites
 - Node.js: Version => v20.20.2
 - pnpm: Version => 10.8.2
+
+### Documentation
+- [Next.js Documentation](https://nextjs.org/docs)
+- [Next.js API Routes](https://nextjs.org/docs/api-routes/introduction)
